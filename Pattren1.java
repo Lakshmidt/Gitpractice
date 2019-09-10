@@ -28,6 +28,8 @@ public class Pattren1
       }
       System.out.println();
     }
+    
+    
   }
 }
        
