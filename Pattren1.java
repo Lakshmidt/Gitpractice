@@ -4,7 +4,7 @@ public class Pattren1
   {
     for(int i=0;i<=5;i++)
     {
-      for(imt k=5-i;k>=0;k--)
+      for(int k=5-i;k>=0;k--)
         System.out.print(" ");
       for(int j=0;j<=i;j++)
       {
@@ -17,7 +17,7 @@ public class Pattren1
     }
     for(int i=0;i<=5;i++)
     {
-      for(imt k=5-i;k>=0;k--)
+      for(int k=5-i;k>=0;k--)
         System.out.print(" ");
       for(int j=0;j<=i;j++)
       {
