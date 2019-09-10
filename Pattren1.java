@@ -10,7 +10,7 @@ public class Pattren1
         System.out.print(" ");
       for(int j=0;j<=i;j++)
       {
-        if(i==j ||j==0)
+        if(i==j ||j==0 || i==5)
         System.out.print("* ");
        else
         System.out.print("  ");
@@ -25,7 +25,7 @@ public class Pattren1
         System.out.print(" ");
       for(int j=0;j<=i;j++)
       {
-       if(i==j ||j==0)
+       if(i==j ||j==0|| i==5)
         System.out.print("* ");
         else
         System.out.print("  ");
